@@ -1,0 +1,33 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+p{
+    font-size:15px;
+    color: hsl(220, 15%, 55%);
+}
+.attribution{
+    font-size: 11px; 
+    text-align: center;
+ }
+.attribution a{ 
+    color: hsl(228, 45%, 44%); 
+}
+/**************QR card design**************/
+.card-main{
+    margin: 5% auto;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius:3% ;
+    width: 300px;
+}
+/************QR code image*****************/
+.qr-code{
+    border-radius: 7%;
+    width: 90%;
+    padding: 5%;
+}
+/************Text design*******************/
+.text{
+    padding: 7%;
+}
